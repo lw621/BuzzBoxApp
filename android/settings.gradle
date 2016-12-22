@@ -1,0 +1,3 @@
+rootProject.name = 'BuzzBoxApp'
+
+include ':app'
