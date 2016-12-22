@@ -18,8 +18,8 @@ export default class Init extends React.Component {
 
   render() {
     return (
-      <View style={ init.container }>
-        <Text style={ init.header }>{'INITIAL PAGE'}</Text>
+      <View style={init.container}>
+        <Text style={init.header}>{'INITIAL PAGE'}</Text>
       </View>
     );
   }
